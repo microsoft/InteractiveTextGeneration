@@ -129,7 +129,7 @@ tf-slim==1.1.0
 threadpoolctl
 tokenizers
 toml
-torch==1.12.1
+torch==1.13.1
 torchaudio==0.12.1
 torchvision==0.13.1
 tornado
