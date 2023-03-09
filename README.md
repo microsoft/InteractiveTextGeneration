@@ -14,8 +14,6 @@ Install dependencies using requirements.txt (with pip) or environment.yaml (with
 `pip install -e .`
 This will install this package as an editable module named `infosol`.
 
-Download model files [here](https://1drv.ms/u/s!AshEqwB44aR6n5JmyZ-8XvvYZ56xTw?e=iV2YCh).
-
 # DATA
 
 You can regenerate the data used in the paper using the `make_data.py` script. You only need to specify the `data_dir` argument where the data will be saved (under `data_dir/cnn_bart`). This script first downloads the raw data from the Huggingface hub.
