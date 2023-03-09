@@ -10,7 +10,9 @@ Felix Faltings, Michel Galley, Baolin Peng, Kianté Brantley, Weixin Cai, Yizhe 
 
 # Installation
 
-Install dependencies using requirements.txt (with pip) or environment.yaml (with conda). Then, install the package. From the top level directory (where `setup.py` is located), run:
+Install dependencies using requirements.txt:
+`pip install -r requirements.txt`
+Then, install the package. From the top level directory (where `setup.py` is located), run:
 `pip install -e .`
 This will install this package as an editable module named `infosol`.
 
