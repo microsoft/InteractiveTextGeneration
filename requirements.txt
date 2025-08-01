@@ -1,9 +1,9 @@
-torch==1.13.1
+torch==2.6.0
 datasets==2.4.0
 matplotlib==3.5.1
 nltk==3.7
 setuptools==65.5.1
 tqdm==4.64.0
-transformers==4.30.0
+transformers==4.36.0
 numpy==1.22.4
 wandb==0.13.2
